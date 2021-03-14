@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabmagrani
+- 👋 Hi, I’m Gabriela Magrani
 - 👀 I’m interested in everything about Tech 
 - 🌱 I’m currently learning JS and VueJs
 
