@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gabriela 
 
-Product Designer who combines a frontend background (HTML, CSS, JS) with design to build better products.
+Product Designer who combines a frontend background with design to build better products.
 
 **What I'm focused on right now**
 - 🧩 Design systems as AI-readable infrastructure
